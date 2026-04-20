@@ -14,4 +14,4 @@ Die verwendeten Versionen sind in der Arbeit dokumentiert.
 
 ## Hinweis zur Erstellung
 
-Bei der Entwicklung dieses Codes wurde KI-gestützte Unterstützung verwendet. Entwurf, Auswahl, Anpassung, Validierung und finale Umsetzung des enthaltenen Codes erfolgten durch den Autor.
+Bei der Entwicklung dieses Codes wurde KI-gestützte Unterstützung verwendet. Anpassung, Validierung und finale Umsetzung des enthaltenen Codes erfolgten durch den Autor.
